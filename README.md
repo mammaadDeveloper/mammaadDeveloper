@@ -1,4 +1,1 @@
-
-<div align="center">
-  <img height="150" src="https://ibb.co/26qHJGm"  />
-</div>
+[url=https://ibb.co/26qHJGm][img]https://i.ibb.co/LPSHKVb/logo-no-background.png[/img][/url]
