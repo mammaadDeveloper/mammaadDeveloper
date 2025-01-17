@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mammaaddeveloper" alt="mammaaddeveloper" /></a> </p>
 
-- 🔭 I’m currently working on [nesjs-edushop-api](https://github.com/mammaadDeveloper/nestjs-edushop-api)
+- 🔭 I’m currently working on [laravel-simple-todo-api](https://github.com/mammaadDeveloper/laravel-simple-todo-api)
 
 - 🌱 I’m currently learning **nestjs, nextjs, vuejs, reactjs, python, ...**
 
