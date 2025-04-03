@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, friend, welcome to my GitHub page! My name is Mohammad Reza. If you are not Iranian, call me Nicholas. I am a lazy programmer who tries to develop projects that I like. I would be very happy if you would help me with my laziness and develop my projects. Let's go...
+Hello, friend, welcome to my GitHub page! My name is Mohammad Reza. I am a lazy programmer who tries to develop projects that I like. I would be very happy if you would help me with my laziness and develop my projects. Let's go...
 
 
 ## 🌐 Socials:
