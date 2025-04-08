@@ -1,10 +1,3 @@
-# 💫 About Me:
-Hello, friend, welcome to my GitHub page! My name is Mohammad Reza. I am a lazy programmer who tries to develop projects that I like. I would be very happy if you would help me with my laziness and develop my projects. Let's go...
-
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Y55FWZs9) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohammadreza-javadi-3298b5336) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@developermammaad) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/devMammaad) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@devMammad) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@mammaadDeveloper) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:developermammaad@gmail.com) 
-
 <h1 align="center">Hi 👋, I'm MohammadReza</h1>
 <h3 align="center">A lazy programmer from Iran</h3>
 
@@ -17,6 +10,11 @@ Hello, friend, welcome to my GitHub page! My name is Mohammad Reza. I am a lazy 
 - 💬 Ask me about **laravel**
 
 - 📫 How to reach me **developermammaad@gmail.com**
+
+<h3>About me:</h3>
+<p>
+  Hello, friend, welcome to my GitHub page! My name is Mohammad Reza. I am a lazy programmer who tries to develop projects that I like. I would be very happy if you would help me with my laziness and develop my     projects. Let's go...
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
